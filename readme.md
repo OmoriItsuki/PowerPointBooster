@@ -16,6 +16,10 @@
 3. 半角スペースをいれてからパワポファイルをD&D
 4. Enterをタッーン！
 5. 処理が終了すれば自動で音声が再生されます
+- 例.
+```
+C:\Users\kinok>D:\UnityHub\PowerPointBooster\PowerPointBooster.bat C:\Users\kinok\Documents\レポート類\無線通信\第01回_オンライン視聴教材_4.ppsx
+```
 
 # ffmpegの導入
 ## ffmpegとは
